@@ -1,6 +1,6 @@
 # Desafío guiado - Collage de imágenes
 
-Desafío «Mi repertorio» del módulo 8 del bootcamp Full Stack JavaScript de Talento Digital.
+Desafío «Collage de imágenes» del módulo 8 del bootcamp Full Stack JavaScript de Talento Digital.
 
 ## Descripción
 
